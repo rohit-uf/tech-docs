@@ -4,5 +4,5 @@
 
 ## [GraphQL](./graphql)
 
-## [GraphQL](./serverless.md)
+## [Serverless](./serverless.md)
 
