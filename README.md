@@ -1,6 +1,8 @@
 # Docs
 
-## [AWS](https://github.com/rohit-uf/tech-docs/tree/main/aws)
+## [AWS](./aws)
 
-## [GraphQL](https://github.com/rohit-uf/tech-docs/tree/main/graphql)
+## [GraphQL](./graphql)
+
+## [GraphQL](./serverless.md)
 
