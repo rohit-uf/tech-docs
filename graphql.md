@@ -29,3 +29,11 @@
 ### Subscription
 
 - Subscribe to any changes in an object
+
+## Resolver
+
+- Connector between GraphQL and Data Source
+- Translate incoming GraphQL Request into instructions for Backend Data Source + Translate response from data source into a GraphQL Response
+- Written in [Apache VTL](./apache_vtl.md)
+
+
