@@ -11,6 +11,7 @@
 
 - Need to define a schema, for the `graphql server` to accept and respond to requests with responses 
 - `SDL` : Schema Definition Language
+- Describes the capabilities of a GraphQL Server and is used to deremine if a query is valid.
 
 ## Type System
 
@@ -35,5 +36,6 @@
 - Connector between GraphQL and Data Source
 - Translate incoming GraphQL Request into instructions for Backend Data Source + Translate response from data source into a GraphQL Response
 - Written in [Apache VTL](./apache_vtl.md)
+- Mechanism by which requests are fulfilled
 
 
