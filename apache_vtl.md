@@ -54,6 +54,7 @@ Doc: [here](https://velocity.apache.org/engine/1.7/user-guide.html)
 }
 ```
 
+- `stash` is a map made available inside each resolver and function mapping template. Same stash instance lives through a single resolver execution.
 
 ## Util
 
