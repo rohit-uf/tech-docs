@@ -31,6 +31,11 @@
 
 - Subscribe to any changes in an object
 
+### Input
+- Defined with the `input` keyword
+- Used to define input with multiple fields
+
+
 ## Resolver
 
 - Connector between GraphQL and Data Source
