@@ -20,3 +20,38 @@
 - `Request Mapping`: Used to resolve GraphQL queries into requests to actual data sources
 - `Response Mapping`: Used to resolve data from data sources into GraphQL response
     
+## `context` Object reference
+
+### `arguments`
+
+- map that contains all graphql **arguments** passed in the request
+
+### `identity`
+
+= object that contains information about the caller
+
+### `source`
+
+- Map that contains resolution of parent field
+
+### `stash`
+
+- Map that is available inside each resolver and function mapping template
+- Single instance of stash lives throught a single resolver execution
+- Can be used to pass arbitrary data across request and response mapping templates
+
+### `result`
+
+- container for the results of this resolver
+- available only to `response` mapping templates
+
+### `prev.result`
+
+- result of wahtever previous operation executed in a pipeline resolver
+
+### `info`
+
+- contains information about the graphql request
+  - fieldName: name of field that is currently being resolved
+  - parentTypeName: name of the parent type for the field that is currently being resolved
+  - variables: All variables passed into graphql request 
