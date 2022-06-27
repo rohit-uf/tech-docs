@@ -3,3 +3,5 @@
 ## [AppSync](./appsync.md)
 
 ## [CloudFormation](./cloudformation.md)
+
+## [DynamoDB](./dynamodb.md)
