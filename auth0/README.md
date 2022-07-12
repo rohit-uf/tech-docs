@@ -10,7 +10,7 @@
 - [https://www.clariontech.com/blog/an-effective-social-authentication-solution-with-auth0](https://www.clariontech.com/blog/an-effective-social-authentication-solution-with-auth0)
 
 - Does not work on native (Android/IOS) platform
-- Third party cookies must be enabled (Will not work on brave, latest version of safari)
+- Third party cookies must be enabled (Will not work on brave, latest version of safari, firefox)
 - both applications must either use embedded login or universal login
 
 ### Limitations
