@@ -6,11 +6,16 @@
 
 ## Embedded Login
 
+![image](https://user-images.githubusercontent.com/103091956/178416382-f56dcfab-e07b-49c7-9a7e-9b7f10cbb411.png)
+- [https://www.clariontech.com/blog/an-effective-social-authentication-solution-with-auth0](https://www.clariontech.com/blog/an-effective-social-authentication-solution-with-auth0)
+
 - Does not work on native (Android/IOS) platform
 - Third party cookies must be enabled (Will not work on brave, latest version of safari)
 - both applications must either use embedded login or universal login
 
-### [Limitations](https://auth0.com/docs/authenticate/login/cross-origin-authentication#limitations)
+### Limitations
+1. [CORS](https://auth0.com/docs/authenticate/login/cross-origin-authentication#limitations)
+2. [Salesforce](https://help.salesforce.com/s/articleView?id=sf.external_identity_login_all_steps.htm&type=5)
 
 ### FAQ
 
