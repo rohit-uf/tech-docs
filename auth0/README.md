@@ -12,6 +12,13 @@
 
 ### [Limitations](https://auth0.com/docs/authenticate/login/cross-origin-authentication#limitations)
 
+### FAQ
+
+- [how-do-i-configure-sso-single-sign-on-with-auth0](https://community.auth0.com/t/how-do-i-configure-sso-single-sign-on-with-auth0/82450)
+- [embedded-with-custom-domain-vs-universal-login](https://community.auth0.com/t/embedded-with-custom-domain-vs-universal-login/26094)
+- [single page app sso](https://auth0.com/docs/troubleshoot/product-lifecycle/past-migrations/migrate-from-embedded-login-to-universal-login#single-page-apps)
+
+
 ## [API Endpoint: auth0.com/docs/api ](https://auth0.com/docs/api)
 
 
@@ -20,8 +27,3 @@
 
 ## [Lock API](https://auth0.com/docs/libraries/lock/lock-api-reference)
 
-## FAQ
-
-- [how-do-i-configure-sso-single-sign-on-with-auth0](https://community.auth0.com/t/how-do-i-configure-sso-single-sign-on-with-auth0/82450)
-- [embedded-with-custom-domain-vs-universal-login](https://community.auth0.com/t/embedded-with-custom-domain-vs-universal-login/26094)
-- [single page app sso](https://auth0.com/docs/troubleshoot/product-lifecycle/past-migrations/migrate-from-embedded-login-to-universal-login#single-page-apps)
