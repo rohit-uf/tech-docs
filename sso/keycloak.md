@@ -2,7 +2,11 @@
 
 ## Documentation: [https://www.keycloak.org/](https://www.keycloak.org/)
 
-## Configuring database: [DB](https://www.keycloak.org/server/db#_configuring_a_database)
+## Configuration 
+
+### Database: [DB](https://www.keycloak.org/server/db#_configuring_a_database)
+
+### Server: [Server](https://www.keycloak.org/server/configuration)
 
 - Edit configuration file in `conf/keycloak.conf`
 - Can give path to custom configuration file with `-cf` flag
