@@ -55,3 +55,10 @@ Sample Configuration File
   hostname-strict-https=false
 ```
 
+## Service Provider Interface | SPI
+
+- [How to implement](https://www.keycloak.org/docs/latest/server_development/index.html#_providers)
+
+### User Storage SPI
+- [Tutorial](https://www.youtube.com/watch?v=1UklqPPjcRY)
+- [JAVA Implementation](https://www.youtube.com/watch?v=1UklqPPjcRY&list=PLNn3plN7ZiaowUvKzKiJjYfWpp86u98iY)
