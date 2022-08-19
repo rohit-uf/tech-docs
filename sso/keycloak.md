@@ -18,8 +18,8 @@
 4. Create an administrator user and go to the console
 5. Create a new realm
 6. Create a new client:
-  1. Goto Clients -> Import client
-  2. From SSO Plugin, download `Service Provider Metadata XML` file
+  1. Goto Clients -> Create client
+  2. From SSO Plugin, Goto 
   3. 
 
 ## Configuration 
