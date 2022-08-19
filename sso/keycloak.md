@@ -2,6 +2,26 @@
 
 ## Documentation: [https://www.keycloak.org/](https://www.keycloak.org/)
 
+## Installation
+
+
+### Wordpress
+
+1. Install `Mini-Orange SSO` plugin
+2. Follow further instructions from `here` 
+
+### Keycloak
+
+1. Install keycloak from [https://www.keycloak.org/downloads](https://www.keycloak.org/downloads) and extract the zipped file
+2. Locate `kc.sh` file
+3. Run `kc.sh start-dev`
+4. Create an administrator user and go to the console
+5. Create a new realm
+6. Create a new client:
+  1. Goto Clients -> Import client
+  2. From SSO Plugin, download `Service Provider Metadata XML` file
+  3. 
+
 ## Configuration 
 
 ### Database: [DB](https://www.keycloak.org/server/db#_configuring_a_database)
