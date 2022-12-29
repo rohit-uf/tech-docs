@@ -25,3 +25,7 @@ Ref: [Microservices.io](https://microservices.io/)
 
 - [Gateway](https://microservices.io/patterns/apigateway.html)
 - [Netflix API](http://techblog.netflix.com/2012/07/embracing-differences-inside-netflix.html)
+
+## Externalizing Configuration
+
+- [Externalizing Configuration](https://microservices.io/patterns/externalized-configuration.html)
