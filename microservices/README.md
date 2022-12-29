@@ -29,3 +29,7 @@ Ref: [Microservices.io](https://microservices.io/)
 ## Externalizing Configuration
 
 - [Externalizing Configuration](https://microservices.io/patterns/externalized-configuration.html)
+
+
+## Deployment Pattern
+- [Deployment](https://microservices.io/patterns/deployment/multiple-services-per-host.html)
