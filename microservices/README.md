@@ -15,3 +15,7 @@ Ref: [Microservices.io](https://microservices.io/)
 ## SOLID Principles
 
 - [SOLID](https://www.freecodecamp.org/news/solid-principles-single-responsibility-principle-explained/)
+
+## Database
+
+- [SAGA Principle](https://microservices.io/patterns/data/saga.html)
