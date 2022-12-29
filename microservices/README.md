@@ -19,3 +19,7 @@ Ref: [Microservices.io](https://microservices.io/)
 ## Database
 
 - [SAGA Principle](https://microservices.io/patterns/data/saga.html)
+
+## API Gateway
+
+- [Gateway](https://microservices.io/patterns/apigateway.html)
