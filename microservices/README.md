@@ -3,6 +3,7 @@
 Ref: [Microservices.io](https://microservices.io/)
 
 - [Microservice Architecture](https://microservices.io/patterns/microservices.html)
+- [Micro service Pattern Language](https://microservices.io/patterns/)
 - [What is a service](http://chrisrichardson.net/post/microservices/general/2019/02/16/whats-a-service-part-1.html)
 - [Who is using microservices](https://microservices.io/articles/whoisusingmicroservices.html)
 
@@ -23,3 +24,4 @@ Ref: [Microservices.io](https://microservices.io/)
 ## API Gateway
 
 - [Gateway](https://microservices.io/patterns/apigateway.html)
+- [Netflix API](http://techblog.netflix.com/2012/07/embracing-differences-inside-netflix.html)
