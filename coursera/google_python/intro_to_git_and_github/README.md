@@ -19,3 +19,4 @@ patch file_name < patch_file_name
 - `git config -l` shows all the configuration values
 
 - `git show <COMMIT-HASH>` will show a single commit and the changes associated with it
+- `git log --stat` shows the number of lines added/removed in a commit
