@@ -21,3 +21,8 @@ patch file_name < patch_file_name
 - `git show <COMMIT-HASH>` will show a single commit and the changes associated with it
 - `git log --stat` shows the number of lines added/removed in a commit
 - `git diff --staged` shows the change(s) between previous commit and the staged files
+
+## Deleting/Renaming Files
+
+- `git rm <file-name>` removes the file from directory + stages the change for the next commit
+- `git mv <old_file_name> <new_file_name>` renames a file in the directory and stages the change for next commit
