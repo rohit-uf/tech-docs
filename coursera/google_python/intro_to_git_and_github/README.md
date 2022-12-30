@@ -16,4 +16,4 @@ patch file_name < patch_file_name
 ```
 
 - `git config` helps to set-up configruation values like `user.name`, `user.email` etc
-- 
+- `git config -l` shows all the configuration values
