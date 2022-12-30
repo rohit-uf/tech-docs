@@ -20,3 +20,4 @@ patch file_name < patch_file_name
 
 - `git show <COMMIT-HASH>` will show a single commit and the changes associated with it
 - `git log --stat` shows the number of lines added/removed in a commit
+- `git diff --staged` shows the change(s) between previous commit and the staged files
