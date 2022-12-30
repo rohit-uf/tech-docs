@@ -17,3 +17,5 @@ patch file_name < patch_file_name
 
 - `git config` helps to set-up configruation values like `user.name`, `user.email` etc
 - `git config -l` shows all the configuration values
+
+- `git show <COMMIT-HASH>` will show a single commit and the changes associated with it
