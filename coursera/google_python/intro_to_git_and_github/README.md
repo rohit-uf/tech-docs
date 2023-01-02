@@ -41,3 +41,6 @@ patch file_name < patch_file_name
 
 - `git revert` will create a new commit, that is the opposite of everything in the referenced commit
 - Example `git revert HEAD`
+
+
+- `git log -n` will display log for the last n commits
