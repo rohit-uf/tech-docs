@@ -26,3 +26,12 @@ patch file_name < patch_file_name
 
 - `git rm <file-name>` removes the file from directory + stages the change for the next commit
 - `git mv <old_file_name> <new_file_name>` renames a file in the directory and stages the change for next commit
+
+## Reverting Changes
+- `git checkout <file-name>` will update the files to the last stored snapshot of the file
+- `git checkout -p <file-name>` will ask which changes to update to the last stored snapshot of the file
+
+- `git reset` is the opposite of `git add`
+- `git reset HEAD <file-name>` will unstage a staged file
+- `git reset HEAD -p <file-name>` will unstage a staged file
+
