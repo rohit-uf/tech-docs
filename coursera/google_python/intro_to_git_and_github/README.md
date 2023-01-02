@@ -35,3 +35,9 @@ patch file_name < patch_file_name
 - `git reset HEAD <file-name>` will unstage a staged file
 - `git reset HEAD -p <file-name>` will unstage a staged file
 
+- `git commit --amend` will run the commit workflow on staged files, and over-write the previous commit
+
+## Rollback
+
+- `git revert` will create a new commit, that is the opposite of everything in the referenced commit
+- Example `git revert HEAD`
