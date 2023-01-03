@@ -20,6 +20,7 @@ patch file_name < patch_file_name
 
 - `git show <COMMIT-HASH>` will show a single commit and the changes associated with it
 - `git log --stat` shows the number of lines added/removed in a commit
+- `git log --graph --oneline` will show a graphical view of the commit history 
 - `git diff --staged` shows the change(s) between previous commit and the staged files
 
 ## Deleting/Renaming Files
@@ -60,4 +61,7 @@ patch file_name < patch_file_name
 - `Three Way Merge` : There are different commits on different branches, so git will take changes from both branches and put them in a new commit. This might result in Conflicts
 
 ### Merge Conflicts
-- 
+- When two branches update the same part of the same file
+
+- `git merge <branch-name>` will merge the current checked out branch with the branch-name
+- `git merge --abort` will stop the merge
