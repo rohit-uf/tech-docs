@@ -44,3 +44,20 @@ patch file_name < patch_file_name
 
 
 - `git log -n` will display log for the last n commits
+
+
+## Branches
+
+- `git branch <branch-name>` will create a branch
+- `git checkout <branch-name>` will switch to that branch
+- `git checkout -b <branch-name>` will create a new branch and switch to it
+- `git branch -d <branch-name>` will delete a branch
+
+## Merging Branches
+
+### Algorithms
+- `Fast-Forward` : All the commits in one branch are there in the other branch with some additional commits. So git will just update the first branch to point to the latest commit of the second branch
+- `Three Way Merge` : There are different commits on different branches, so git will take changes from both branches and put them in a new commit. This might result in Conflicts
+
+### Merge Conflicts
+- 
