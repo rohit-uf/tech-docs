@@ -65,3 +65,13 @@ patch file_name < patch_file_name
 
 - `git merge <branch-name>` will merge the current checked out branch with the branch-name
 - `git merge --abort` will stop the merge
+
+
+## Github
+
+- Remote repository management service
+- `remote` reference to the remote repository
+- `git remote -v` lets us know the URL for our remote repository
+- `git remote show <remote-name>` will show the details of remote repository
+- `git branch -r` will show all remote branches
+ 
