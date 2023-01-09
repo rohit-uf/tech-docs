@@ -81,3 +81,37 @@ patch file_name < patch_file_name
 - `git merge <remote-branch>` merges the changes in local branch
 - `git pull` both fetches and merges the changes
 - `git remote update` will fetch contents of remote branch without automatically merging
+
+
+## Rebasing
+
+- Used to change base commit of a branch
+- Example
+```
+git log Branch-A
+
+X -> Branch-A
+A
+Y -> P (Branch-B)
+Z
+
+git checkout Branch-B
+git rebase Branch-A
+
+  -->(Branch-A)
+ /
+X -> P -> (Branch-B)
+A
+Y 
+Z
+```
+
+## Best practices for collaboration
+
+- Always synchronize branches before pushing
+- Keep commits small
+- Regularly merge changes from `master` branch onto feature branch
+- Don't rebase changes that have been pushed to remote repo
+- Have good commits messages
+
+
