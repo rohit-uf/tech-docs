@@ -115,3 +115,10 @@ Z
 - Have good commits messages
 
 
+## Forking
+
+- Create a copy of a repository for another user
+
+## Pull request
+- Request to merge commit(s) in the original repository
+
