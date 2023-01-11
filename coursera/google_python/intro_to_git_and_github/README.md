@@ -127,4 +127,9 @@ Z
 - On github, can add comments on a pull request for more information, or to ask for changes
 - Reviews starting with `NIT (Not important though)` are small imperfections which can be fixed, but are not very important
 - References
+  - https://medium.com/osedea/the-perfect-code-review-process-845e6ba5c31
+  - https://google.github.io/styleguide/
+  - https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests
+
+
 
