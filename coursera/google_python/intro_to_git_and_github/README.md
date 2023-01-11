@@ -122,3 +122,9 @@ Z
 ## Pull request
 - Request to merge commit(s) in the original repository
 
+## Code Review
+
+- On github, can add comments on a pull request for more information, or to ask for changes
+- Reviews starting with `NIT (Not important though)` are small imperfections which can be fixed, but are not very important
+- References
+
