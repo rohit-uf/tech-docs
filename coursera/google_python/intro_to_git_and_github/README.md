@@ -131,5 +131,19 @@ Z
   - https://google.github.io/styleguide/
   - https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests
 
+`Continuous Integration` : Will build and test code everytime there is a change
 
+`Continuous Deployment` : Deploy code incrementally with short changes
 
+`Pipeline` : Specify the steps required to get a result
+
+`Artifacts` : Name used to describe any file(s) that are generated as part of running a pipeline
+
+> Make sure the authorized entity that deploys to a test server, is not authorized to deploy on Production server
+
+## Tools
+- [Travis-CI](./travis-ci.com)
+
+## References
+- https://www.arp242.net/diy.html
+- https://help.github.com/en/articles/setting-guidelines-for-repository-contributors
