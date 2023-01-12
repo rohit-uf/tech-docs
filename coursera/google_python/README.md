@@ -1,10 +1,7 @@
 # 1. Crash Course on Python
 
+# 2. [Using python to interact with the operating system](./course_2.md)
 
-# 4. Configuration ManagementW
+# 3. [Introduction to Git and Github](./course_3.md)
 
-## Week 1
-
-- Scale: A scalable system is a flexible system. It can scale (serve more consumers) by just adding more servers (without much code modification required)
-- Automation: Tool that helps to scale
-- 
+# 4. [Configuration Management](./course_4.md)
