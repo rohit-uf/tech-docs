@@ -44,3 +44,9 @@
 - Mechanism by which requests are fulfilled
 
 
+## Apollo Server DOCS
+
+### Schema
+
+- Uses `Schema Definition Language`
+- defines a collection of types and relationships between those types
