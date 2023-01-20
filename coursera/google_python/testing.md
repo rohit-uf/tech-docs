@@ -14,3 +14,10 @@
 
 - `unittest` module
  
+## White Box Testing
+- Transparent testing
+- Tester knows the software being tested
+
+## Black Box Testing
+- Software is treated as an opaque box
+- Test cases are planned accordingly
